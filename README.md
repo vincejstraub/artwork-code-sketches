@@ -1,2 +1,2 @@
 # artwork-random-walk
-Code for the pieces Walking nowhere in particular (2020) and Homage to Vera Molnár (2019).
+Code for the pieces _Walking nowhere in particular_ (2020) and _Homage to Vera Molnár_ (2019).
