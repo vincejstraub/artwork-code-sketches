@@ -20,7 +20,7 @@ In Mathematics, a random walk is a process that describes a path consisting of a
 
 Pioneer of algorithmic computer art Vera Molnár (aged 96 at the time of writing and still working) once said, "the machine, thought to be cold and inhuman, can help to realize what is most subjective, unattainable, and profound in a human being". Taking inspiration from this sentiment, _A la Recherche de Vera Molnár_ is a simple, short script that shows how a few lines of code and standard import libraries can be used to create abstract visualizations. Conceptually showing  bring an element of surprise, color, and suspense, which is often not attained when relying just on human intuition and control.
 
-<img src="Images/a_la_recherche_de_Vera_Molner_example_output_1.png" width="100"> <img src="Images/a_la_recherche_de_Vera_Molner_example_output_2.png" width="100">
+<img src="Images/a_la_recherche_de_Vera_Molner_example_output_1.png" width="325"> <img src="Images/output_2.png" width="325">
 
 
 
