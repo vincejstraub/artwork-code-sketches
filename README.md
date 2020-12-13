@@ -13,7 +13,7 @@ This repository contains the code used to create _Walking nowhere in particular_
 
 In Mathematics, a random walk is a process that describes a path consisting of a succession of random steps on some mathematical space. Random walk theory has found a wide variety of applications in the natural world; the search path of a foraging animal, the trajectory of pollen particles and the motion of a cell can all can be approximated by random walk models. By visualizing multiple random walks in a two dimensional grid, _Walking nowhere in particular_ explores their metaphorical reach to other realms; each walk is taken to figuratively visualize complex and ephemeral aspects of reality—be it the growth of bacteria in a petri dish, an individual searching for love or the movements of a bored house cat.
 
-![](Images/walking_nowhere_in_particular_example_output.png =100x20)
+![](Images/walking_nowhere_in_particular_example_output.png)
 
 ## A la Recherche de Vera Molnár (2020)
 
