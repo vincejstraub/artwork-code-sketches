@@ -13,14 +13,15 @@ This repository contains the code used to create _Walking nowhere in particular_
 
 In Mathematics, a random walk is a process that describes a path consisting of a succession of random steps on some mathematical space. Random walk theory has found a wide variety of applications in the natural world; the search path of a foraging animal, the trajectory of pollen particles and the motion of a cell can all can be approximated by random walk models. By visualizing multiple random walks in a two dimensional grid, _Walking nowhere in particular_ explores their metaphorical reach to other realms; each walk is taken to figuratively visualize complex and ephemeral aspects of reality—be it the growth of bacteria in a petri dish, an individual searching for love or the movements of a bored house cat.
 
-<img src="Images/walking_nowhere_in_particular_example_output.png" width="200">
+<img src="Images/walking_nowhere_in_particular_example_output.png" width="500">
 
 
 ## A la Recherche de Vera Molnár (2020)
 
 Pioneer of algorithmic computer art Vera Molnár (aged 96 at the time of writing and still working) once said, "the machine, thought to be cold and inhuman, can help to realize what is most subjective, unattainable, and profound in a human being". Taking inspiration from this sentiment, _A la Recherche de Vera Molnár_ is a simple, short script that shows how a few lines of code and standard import libraries can be used to create abstract visualizations. Conceptually showing  bring an element of surprise, color, and suspense, which is often not attained when relying just on human intuition and control.
 
-![](Images/a_la_recherche_de_Vera_Molner_example_output.png)
+<img src="Images/a_la_recherche_de_Vera_Molner_example_output.png" width="500">
+
 
 ## Requirements
 - Python 3.7.7
