@@ -6,6 +6,9 @@
 * [Homage to Vera Molnár](#Homage-to-Vera-Molnár)
 * [Requirements](requirements)
 
+## General info
+This repository contains the code used to create _Walking nowhere in particular_ (2020) and _A la Recherche de Vera Molnár_ (2020), two algorithmic artworks.  A . The text below introduces both works and summarizes each file and it's function, with further comments provided throughout the code. To create your own images simply load the example notebooks, executing cells one by one, or run the scripts.
+
 ## Walking nowhere in particular (2020)
 
 In Mathematics, a random walk is a process that describes a path consisting of a succession of random steps on some mathematical space. Random walk theory has found a wide variety of applications in the natural world; the search path of a foraging animal, the trajectory of pollen particles and the motion of a cell can all can be approximated by random walk models. 
