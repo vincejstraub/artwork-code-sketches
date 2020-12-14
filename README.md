@@ -10,7 +10,7 @@ This repository contains the code used to create _Walking nowhere in particular_
 
 ## Code 
 
-* All random walk visualizations for _Walking nowhere in particular (2020)_ are generated using the script `SWRdrawer`; at each step the location is programmed to jump to a neighbouring site according to a predefined probability distribution and step count. The images will be saved to a directory called `Images/`. `SRWdrawer.ipynb` provides examples of how to run the script. Afterwards, you will have a collection of still images from which a video can be created by stitching the images into a gif or mp4: 
+* All random walk visualizations for _Walking nowhere in particular (2020)_ are generated using the script `SWRdrawer`, which implements a [simple random walk](https://en.wikipedia.org/wiki/Random_walk); at each step the location is programmed to jump to a neighbouring site according to a predefined probability distribution and step count. The images will be saved to a directory called `Images/`. `SRWdrawer.ipynb` provides examples of how to run the script. Afterwards, you will have a collection of still images from which a video can be created by stitching the images into a gif or mp4: 
 
 <img src="Images/walking_nowhere_in_particular_example_output.png" width="410"> <img src="Animations/walking_nowhere_in_particular_example.gif" width="415">
 
