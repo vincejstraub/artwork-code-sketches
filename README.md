@@ -23,7 +23,6 @@ This repository contains the code used to create _Walking nowhere in particular_
 
 ## Requirements
 - Python 3.7.7
-- Matplotlib 
 - Jupyter
 
 Please follow the online instructions to install the required libraries, depending on your operating system and machine specifications. 
