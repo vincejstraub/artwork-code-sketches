@@ -15,7 +15,7 @@ This repository contains the code used to create _Walking nowhere in particular_
 <img src="Images/walking_nowhere_in_particular_example_output.png" width="410"> <img src="Animations/walking_nowhere_in_particular_example.gif" width="415">
 
 
-* Pioneer of algorithmic computer art Vera Molnár (aged 96 at the time of writing and still working) once said, "the machine, thought to be cold and inhuman, can help to realize what is most subjective, unattainable, and profound in a human being". Taking inspiration from this sentiment, _A la Recherche de Vera Molnár_ is a simple, short script that shows how a few lines of code and standard import libraries can be used to create abstract visualizations. Conceptually showing  bring an element of surprise, color, and suspense, which is often not attained when relying just on human intuition and control.
+* `a_la_recherche_de_Vera_Molner` plots a simple random walk drawing in 2 dimensions, calling an image interpolation method to fill out the image. Pioneer of algorithmic computer art Vera Molnár (aged 96 at the time of writing and still working) once said, "the machine, thought to be cold and inhuman, can help to realize what is most subjective, unattainable, and profound in a human being". Taking inspiration from this sentiment, _A la Recherche de Vera Molnár_ is a simplistic demonstration that a few lines of code generate abstract visualizations, creating surprise, color, and suspense. 
 
 <img src="Images/a_la_recherche_de_Vera_Molner_example_output_1.png" width="500"> <img src="Images/output_2.png" width="325" height="322">
 
