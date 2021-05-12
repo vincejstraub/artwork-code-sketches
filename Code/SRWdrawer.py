@@ -1,5 +1,4 @@
 # Vince J. Straub, 2020
-# https://stackoverflow.com/questions/38478409/finding-out-complementary-opposite-color-of-a-given-color
 
 from matplotlib import colors as mcolors
 import matplotlib.pyplot as plt
