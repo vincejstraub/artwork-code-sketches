@@ -6,7 +6,7 @@
 * [Requirements](requirements)
 
 ## General info
-This repository contains the code used to create _Walking nowhere in particular_ (2020) [insert link] and _A la Recherche de Vera Molnár_ (2020) [insert link], two algorithmic artworks. The text below summarizes each file and it's function, with further comments provided throughout the code. To create your own images simply load the example notebooks, executing cells one by one, or run the scripts in your terminal.
+This repository contains the code used to create _Walking nowhere in particular_ (2020) and _A la Recherche de Vera Molnár_ (2020), two algorithmic artworks. The text below summarizes each file and it's function, with further comments provided throughout the code. To create your own images simply load the example notebooks, executing cells one by one, or run the scripts in your terminal.
 
 ## Code 
 
